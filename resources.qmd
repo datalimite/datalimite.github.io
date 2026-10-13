@@ -1,0 +1,19 @@
+---
+title: "Resources"
+jupyter: python3
+---
+
+Open datasets of interest to Portuguese civil society. Last reviewed: October 2026.
+
+```{python}
+#| echo: false
+import pandas as pd
+from itables import init_notebook_mode, show
+
+init_notebook_mode(all_interactive=False)
+
+df = pd.read_csv("resources/datasets.csv")
+df["link"] = df["link"].apply(lambda u: f'<a href="{u}">link</a>')
+show(df, classes="display compact", columnDefs=[{"className": "dt-left", "targets": "_all"}])
+```
+
