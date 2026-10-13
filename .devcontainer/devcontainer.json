@@ -1,0 +1,23 @@
+{
+  "name": "Data Limite (Quarto)",
+  "image": "mcr.microsoft.com/devcontainers/python:3.12",
+  "features": {
+    "ghcr.io/rocker-org/devcontainer-features/quarto-cli:1": {
+      "version": "release"
+    }
+  },
+  "postCreateCommand": "pip install -r requirements.txt",
+  "forwardPorts": [4200],
+  "portsAttributes": {
+    "4200": { "label": "Quarto preview", "onAutoForward": "openBrowser" }
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "quarto.quarto",
+        "ms-python.python",
+        "redhat.vscode-yaml"
+      ]
+    }
+  }
+}
