@@ -2,7 +2,7 @@
 title: "Data Limite"
 subtitle: "Open data projects for civil society, journalists and researchers"
 about:
-  template: solana
+  template: jolla
   links:
     - text: Projects
       href: projects/index.qmd
