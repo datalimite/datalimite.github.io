@@ -1,110 +1,5 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "Who we are, what we do, and how to get in touch."
-  },
-  {
-    "objectID": "about.html#independence",
-    "href": "about.html#independence",
-    "title": "About",
-    "section": "Independence",
-    "text": "Independence\n(Placeholder: your independence policy.)"
-  },
-  {
-    "objectID": "about.html#licences",
-    "href": "about.html#licences",
-    "title": "About",
-    "section": "Licences",
-    "text": "Licences\nContent and data: CC BY 4.0. Code: MIT. Third-party data keeps its original licence."
-  },
-  {
-    "objectID": "blog/posts/first-post/index.html",
-    "href": "blog/posts/first-post/index.html",
-    "title": "Why Data Limite exists",
-    "section": "",
-    "text": "A short introduction to the project."
-  },
-  {
-    "objectID": "projects/pilots/pilot-1.html#the-data",
-    "href": "projects/pilots/pilot-1.html#the-data",
-    "title": "Pilot 1: (working title)",
-    "section": "The data",
-    "text": "The data"
-  },
-  {
-    "objectID": "projects/pilots/pilot-1.html#the-method",
-    "href": "projects/pilots/pilot-1.html#the-method",
-    "title": "Pilot 1: (working title)",
-    "section": "The method",
-    "text": "The method"
-  },
-  {
-    "objectID": "projects/pilots/pilot-1.html#the-result",
-    "href": "projects/pilots/pilot-1.html#the-result",
-    "title": "Pilot 1: (working title)",
-    "section": "The result",
-    "text": "The result"
-  },
-  {
-    "objectID": "projects/pilots/pilot-1.html#limits",
-    "href": "projects/pilots/pilot-1.html#limits",
-    "title": "Pilot 1: (working title)",
-    "section": "Limits",
-    "text": "Limits"
-  },
-  {
-    "objectID": "projects/pilots/pilot-1.html#code-and-data",
-    "href": "projects/pilots/pilot-1.html#code-and-data",
-    "title": "Pilot 1: (working title)",
-    "section": "Code and data",
-    "text": "Code and data"
-  },
-  {
-    "objectID": "projects/pilots/pilot-2.html#the-data",
-    "href": "projects/pilots/pilot-2.html#the-data",
-    "title": "Pilot 2: (working title)",
-    "section": "The data",
-    "text": "The data"
-  },
-  {
-    "objectID": "projects/pilots/pilot-2.html#the-method",
-    "href": "projects/pilots/pilot-2.html#the-method",
-    "title": "Pilot 2: (working title)",
-    "section": "The method",
-    "text": "The method"
-  },
-  {
-    "objectID": "projects/pilots/pilot-2.html#the-result",
-    "href": "projects/pilots/pilot-2.html#the-result",
-    "title": "Pilot 2: (working title)",
-    "section": "The result",
-    "text": "The result"
-  },
-  {
-    "objectID": "projects/pilots/pilot-2.html#limits",
-    "href": "projects/pilots/pilot-2.html#limits",
-    "title": "Pilot 2: (working title)",
-    "section": "Limits",
-    "text": "Limits"
-  },
-  {
-    "objectID": "projects/pilots/pilot-2.html#code-and-data",
-    "href": "projects/pilots/pilot-2.html#code-and-data",
-    "title": "Pilot 2: (working title)",
-    "section": "Code and data",
-    "text": "Code and data"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Data Limite",
-    "section": "",
-    "text": "We run small projects based on open data: analyses, workshops and training materials, all with documented, reproducible methods."
-  },
-  {
     "objectID": "projects/index.html",
     "href": "projects/index.html",
     "title": "Projects",
@@ -154,10 +49,115 @@
     "text": "Open datasets of interest to Portuguese civil society. Last reviewed: October 2026.\n\n\n\n\n\n\n\n\n\n\n    \n        \n        \n        \n        \n        \n        \n        \n        \n    \n    \n   \n    \n      \n  \n        \n    \n    \n  \n        \n    \n    \n  \n        \n    \n      \n  \n        \n            \n                \n                \n            \n\n            \n                \n                \n            \n\n            \n                \n                \n            \n\n            \n                \n                \n            \n\n            \n                \n                \n            \n        \n    \n\n\nThis is the init_notebook_mode cell from ITables v2.9.1\n(you should not see this message - is your notebook trusted?)\n\n\n\n\n\n\n  \n    \n      \n    \n        \n        \n        \n        \n        \n        \n        \n        \n    \n    \n   \n    \n      \n  \n        \n    \n    \n  \n        \n    \n    \n  \n        \n    \n      \n  \n        \n            \n                \n                \n            \n\n            \n                \n                \n            \n\n            \n                \n                \n            \n\n            \n                \n                \n            \n\n            \n                \n                \n            \n        \n    \n\n\n        Loading ITables v2.9.1 from the init_notebook_mode cell...\n        (need help?)\n      \n    \n  \n\n    \n      🔒ⓘnome\n      entidade\n      tema\n      formato\n      licenca\n      link\n      ultima_verificacao\n    \n(dataset name)INEHousing(verify)(verify)&lt;a href=\"https://www.ine.pt\"&gt;link&lt;/a&gt;2026-10-13\n(dataset name)Banco de PortugalFinance(verify)(verify)&lt;a href=\"https://www.bportugal.pt\"&gt;link&lt;/a&gt;2026-10-13\n(dataset name)dados.gov.ptMultiple(verify)(verify)&lt;a href=\"https://dados.gov.pt\"&gt;link&lt;/a&gt;2026-10-13"
   },
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Data Limite",
+    "section": "",
+    "text": "We run small projects based on open data: analyses, workshops and training materials, all with documented, reproducible methods."
+  },
+  {
     "objectID": "blog/index.html",
     "href": "blog/index.html",
     "title": "Blog",
     "section": "",
     "text": "Why Data Limite exists\n\n\n\n\n\n\n\n\n13 de out. de 2026\n\n\n\n\n\nNenhum item correspondente"
+  },
+  {
+    "objectID": "blog/posts/first-post/index.html",
+    "href": "blog/posts/first-post/index.html",
+    "title": "Why Data Limite exists",
+    "section": "",
+    "text": "A short introduction to the project."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Who we are, what we do, and how to get in touch."
+  },
+  {
+    "objectID": "about.html#independence",
+    "href": "about.html#independence",
+    "title": "About",
+    "section": "Independence",
+    "text": "Independence\n(Placeholder: your independence policy.)"
+  },
+  {
+    "objectID": "about.html#licences",
+    "href": "about.html#licences",
+    "title": "About",
+    "section": "Licences",
+    "text": "Licences\nContent and data: CC BY 4.0. Code: MIT. Third-party data keeps its original licence."
+  },
+  {
+    "objectID": "projects/pilots/pilot-2.html#the-data",
+    "href": "projects/pilots/pilot-2.html#the-data",
+    "title": "Pilot 2: (working title)",
+    "section": "The data",
+    "text": "The data"
+  },
+  {
+    "objectID": "projects/pilots/pilot-2.html#the-method",
+    "href": "projects/pilots/pilot-2.html#the-method",
+    "title": "Pilot 2: (working title)",
+    "section": "The method",
+    "text": "The method"
+  },
+  {
+    "objectID": "projects/pilots/pilot-2.html#the-result",
+    "href": "projects/pilots/pilot-2.html#the-result",
+    "title": "Pilot 2: (working title)",
+    "section": "The result",
+    "text": "The result"
+  },
+  {
+    "objectID": "projects/pilots/pilot-2.html#limits",
+    "href": "projects/pilots/pilot-2.html#limits",
+    "title": "Pilot 2: (working title)",
+    "section": "Limits",
+    "text": "Limits"
+  },
+  {
+    "objectID": "projects/pilots/pilot-2.html#code-and-data",
+    "href": "projects/pilots/pilot-2.html#code-and-data",
+    "title": "Pilot 2: (working title)",
+    "section": "Code and data",
+    "text": "Code and data"
+  },
+  {
+    "objectID": "projects/pilots/pilot-1.html#the-data",
+    "href": "projects/pilots/pilot-1.html#the-data",
+    "title": "Pilot 1: (working title)",
+    "section": "The data",
+    "text": "The data"
+  },
+  {
+    "objectID": "projects/pilots/pilot-1.html#the-method",
+    "href": "projects/pilots/pilot-1.html#the-method",
+    "title": "Pilot 1: (working title)",
+    "section": "The method",
+    "text": "The method"
+  },
+  {
+    "objectID": "projects/pilots/pilot-1.html#the-result",
+    "href": "projects/pilots/pilot-1.html#the-result",
+    "title": "Pilot 1: (working title)",
+    "section": "The result",
+    "text": "The result"
+  },
+  {
+    "objectID": "projects/pilots/pilot-1.html#limits",
+    "href": "projects/pilots/pilot-1.html#limits",
+    "title": "Pilot 1: (working title)",
+    "section": "Limits",
+    "text": "Limits"
+  },
+  {
+    "objectID": "projects/pilots/pilot-1.html#code-and-data",
+    "href": "projects/pilots/pilot-1.html#code-and-data",
+    "title": "Pilot 1: (working title)",
+    "section": "Code and data",
+    "text": "Code and data"
   }
 ]
