@@ -1,0 +1,27 @@
+project:
+  type: website
+
+website:
+  title: "Data Limite"
+  # favicon: images/favicon.png     # uncomment when you have one
+  navbar:
+    # logo: images/logo.png         # uncomment when you have one
+    left:
+      - href: index.qmd
+        text: Home
+      - href: projects/index.qmd
+        text: Projects
+      - href: blog/index.qmd
+        text: Blog
+      - href: resources.qmd
+        text: Resources
+      - href: about.qmd
+        text: About
+  page-footer: "Content CC BY 4.0 · Code MIT · Views expressed are my own"
+
+format:
+  html:
+    theme:
+      light: [flatly, styles.scss]
+      dark: [darkly, styles.scss]
+    lang: pt
