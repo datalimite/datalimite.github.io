@@ -1,7 +1,13 @@
 ---
-title: "temp-site"
+title: "Data Limite"
+subtitle: "Open data projects for civil society, journalists and researchers"
+about:
+  template: solana
+  links:
+    - text: Projects
+      href: projects/index.qmd
+    - text: Resources
+      href: resources.qmd
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+We run small projects based on open data: analyses, workshops and training materials, all with documented, reproducible methods.

@@ -2,4 +2,12 @@
 title: "About"
 ---
 
-About this site
+Who we are, what we do, and how to get in touch.
+
+## Independence
+
+(Placeholder: your independence policy.)
+
+## Licences
+
+Content and data: CC BY 4.0. Code: MIT. Third-party data keeps its original licence.
