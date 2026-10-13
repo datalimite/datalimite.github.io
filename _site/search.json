@@ -4,13 +4,27 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site"
+    "text": "Who we are, what we do, and how to get in touch."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "temp-site",
+    "title": "Data Limite",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "We run small projects based on open data: analyses, workshops and training materials, all with documented, reproducible methods."
+  },
+  {
+    "objectID": "about.html#independence",
+    "href": "about.html#independence",
+    "title": "About",
+    "section": "Independence",
+    "text": "Independence\n(Placeholder: your independence policy.)"
+  },
+  {
+    "objectID": "about.html#licences",
+    "href": "about.html#licences",
+    "title": "About",
+    "section": "Licences",
+    "text": "Licences\nContent and data: CC BY 4.0. Code: MIT. Third-party data keeps its original licence."
   }
 ]

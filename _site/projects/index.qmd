@@ -1,0 +1,7 @@
+---
+title: "Projects"
+listing:
+  contents: pilots
+  type: grid
+  sort: "date desc"
+---

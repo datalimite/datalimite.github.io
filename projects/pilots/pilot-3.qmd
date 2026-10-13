@@ -1,0 +1,12 @@
+---
+title: "Pilot 3: (working title)"
+description: "In preparation."
+date: 2026-10-13
+---
+
+## The question
+## The data
+## The method
+## The result
+## Limits
+## Code and data

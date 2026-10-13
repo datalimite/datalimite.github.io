@@ -22,6 +22,6 @@ website:
 format:
   html:
     theme:
-      light: [flatly, styles.scss]
+      light: [journal, styles.scss]
       dark: [darkly, styles.scss]
     lang: pt
