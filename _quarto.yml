@@ -3,7 +3,7 @@ project:
 
 website:
   title: "Data Limite"
-  # favicon: images/favicon.png     # uncomment when you have one
+  favicon: images/favicon.svg   
   navbar:
     # logo: images/logo.png         # uncomment when you have one
     left:
