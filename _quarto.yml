@@ -3,9 +3,9 @@ project:
 
 website:
   title: "Data Limite"
-  favicon: images/favicon.svg   
+  favicon: images/dl.png   
   navbar:
-    # logo: images/logo.png         # uncomment when you have one
+    logo: images/dl.png         # uncomment when you have one
     left:
       - href: index.qmd
         text: Home
@@ -25,3 +25,8 @@ format:
       light: [journal, styles.scss]
       dark: [darkly, styles.scss, styles-dark.scss]
     lang: pt
+
+page-footer:
+  center: |
+    Content CC BY 4.0 · Code MIT · Views expressed are my own<br>
+    <a href="https://www.flaticon.com/free-icons/open-data" title="open data icons">Open data icons created by Elzicon - Flaticon</a>
