@@ -42,7 +42,8 @@ a { color: inherit; text-decoration-thickness: 0.075em; text-underline-offset: 0
     background: nth(nth($pastels, $i), 1);
   }
 }
-.navbar-nav .nav-item:nth-child(n+4) .nav-link { background: #eee7f6; }
+.navbar-nav .nav-item:nth-child(4) .nav-link { background: #ddd2f2; }
+.navbar-nav .nav-item:nth-child(5) .nav-link { background: #d9edc9; }
 
 /* headings as highlighter blocks */
 h1.title, main h2, main h3 {
