@@ -25,6 +25,13 @@ body {
 
 a { color: inherit; text-decoration-thickness: 0.075em; text-underline-offset: 0.14em; }
 
+body::before {
+  content: ""; position: fixed; z-index: 0; pointer-events: none;
+  top: -38rem; left: -36vw; width: 92vw; min-width: 52rem; aspect-ratio: 1;
+  border: 1.5px dashed rgb(126 92 155 / 26%); border-radius: 50%;
+}
+#quarto-content, .navbar, .nav-footer { position: relative; z-index: 1; }
+
 /* navbar */
 .navbar { background: transparent !important; box-shadow: none; }
 .navbar-brand .navbar-title,

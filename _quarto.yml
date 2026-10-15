@@ -23,5 +23,5 @@ format:
   html:
     theme:
       light: [journal, styles.scss]
-      dark: [darkly, styles.scss]
+      dark: [darkly, styles.scss, styles-dark.scss]
     lang: pt

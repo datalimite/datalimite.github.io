@@ -1,0 +1,21 @@
+/*-- scss:defaults --*/
+$body-bg: #3b6380;
+$body-color: #f4efe8;
+$link-color: #f4efe8;
+$headings-color: #f4efe8;
+$navbar-fg: #17151a;
+
+/*-- scss:rules --*/
+body { background: linear-gradient(180deg, #28577f 0%, #3b6380 48%, #52697a 100%) fixed; }
+.navbar-title { background: #725f9f; color: #fff45c; }
+h1.title, main h2, main h3 {
+  background: rgb(255 255 255 / 12%); color: #f4efe8;
+}
+@for $i from 1 through 6 {
+  main section.level2:nth-of-type(6n + #{$i}) > h2 {
+    background: rgb(255 255 255 / 12%); color: #f4efe8;
+  }
+}
+.quarto-grid-item.card { background: rgb(255 255 255 / 10%) !important; }
+.quarto-grid-item .listing-title { color: #f4efe8; }
+.nav-footer { color: #f4efe8; }
