@@ -2,10 +2,10 @@ project:
   type: website
 
 website:
-  title: "Data Limite"
-  favicon: images/dl.png   
+  title: "data-limite"
+  favicon: images/favicon.svg 
   navbar:
-    logo: images/dl.png         # uncomment when you have one
+    logo: images/favicon.svg         # uncomment when you have one
     left:
       - href: index.qmd
         text: Home
@@ -22,7 +22,7 @@ website:
 format:
   html:
     theme:
-      light: [journal, styles.scss]
+      light: [brite, styles.scss]
       dark: [darkly, styles.scss, styles-dark.scss]
     lang: pt
 

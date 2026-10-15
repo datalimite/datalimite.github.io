@@ -1,5 +1,5 @@
 ---
-title: "Data Limite"
+title: "data-limite"
 subtitle: "Open data projects for civil society, journalists and researchers"
 about:
   template: jolla
