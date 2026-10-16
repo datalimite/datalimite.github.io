@@ -5,27 +5,27 @@ website:
   title: "data-limite"
   favicon: images/favicon.svg 
   navbar:
-    logo: images/favicon.svg         # uncomment when you have one
+    logo: images/favicon.svg
     left:
       - href: index.qmd
-        text: Home
+        text: Início
       - href: projects/index.qmd
-        text: Projects
+        text: Projectos
       - href: blog/index.qmd
         text: Blog
       - href: resources.qmd
-        text: Resources
+        text: Catálogo de Dados
       - href: about.qmd
-        text: About
-  page-footer: "Content CC BY 4.0 · Code MIT · Views expressed are my own"
+        text: Contacto
+  page-footer: "Conteúdos CC BY 4.0 · Código MIT"
 
 format:
   html:
     theme:
-      light: [brite, styles.scss]
+      light: [cosmo, styles.scss]
       dark: [darkly, styles.scss, styles-dark.scss]
     lang: pt
 
 page-footer:
   center: |
-    Content CC BY 4.0 · Code MIT · Views expressed are my own
+    Conteúdos CC BY 4.0 · Código MIT

@@ -1,16 +1,18 @@
 ---
 title: "data-limite"
-subtitle: "Open data projects for civil society, journalists and researchers"
+subtitle: "Projectos de dados abertos de interesse para a sociedade."
 about:
   template: jolla
   links:
-    - text: Projects
+    - text: Projectos
       href: projects/index.qmd
     - text: Blog
       href: blog/index.qmd
-    - text: Resources
+    - text: Catálogo de Dados
       href: resources.qmd
 ---
 
-We run [small projects]{.mark-1} based on [open data]{.mark-2}, for
-[journalists]{.mark-3}, [civic groups]{.mark-4} and [researchers]{.mark-5}.
+O Data Limite é um laboratório de projetos baseados em **[dados abertos (open data)]{.mark-1}**  de interesse para a sociedade, includindo para associações civis, jornalistas, investigadores e autarquias.
+
+[Análises de dados]{.mark-1}, [workshops]{.mark-2}, [sessões de formação]{.mark-3}, [eventos de networking]{.mark-4}, [datathons]{.mark-5}, sessões práticas para encontrar, tratar e verificar dados públicos, pensadas para redações, associações, serviços municipais e equipas de investigação. Providenciamos aconselhamento, guias, listas de verificação e exemplos que podem ser usados e adaptados.
+
