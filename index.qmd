@@ -12,7 +12,9 @@ about:
       href: resources.qmd
 ---
 
-O Data Limite é um laboratório de projetos baseados em **[dados abertos (open data)]{.mark-1}**  de interesse para a sociedade, includindo para associações civis, jornalistas, investigadores e autarquias.
+O Data Limite é um laboratório de projetos baseados em **[dados abertos (open data)]{.mark-1}** de interesse para a sociedade. Os nossos projectos apoiam comunidades e organizações a descobrir, compreender e a utilizar dados para gerar mudanças positivas.
 
-[Análises de dados]{.mark-1}, [workshops]{.mark-2}, [sessões de formação]{.mark-3}, [eventos de networking]{.mark-4}, [datathons]{.mark-5}, sessões práticas para encontrar, tratar e verificar dados públicos, pensadas para redações, associações, serviços municipais e equipas de investigação. Providenciamos aconselhamento, guias, listas de verificação e exemplos que podem ser usados e adaptados.
+[Análises de dados]{.mark-1}, [aconselhamento técnico]{.mark-2}, [workshops e formação]{.mark-3}, [eventos de networking]{.mark-4}, [investigação]{.mark-5}, são exemplos do que podemos fazer. Disponibilizamos também um [catálogo de dados](projects/index.qmd) e curadoria de uma lista de projectos com dados abertos em [ligações](projects/index.qmd).
+
+Como podemos ajudar?
 
