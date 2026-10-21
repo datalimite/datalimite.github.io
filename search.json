@@ -1,5 +1,54 @@
 [
   {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Pilot 2: (working title)\n\n\nIn preparation.\n\n\n\n\n\n\n13 de out. de 2026\n\n\n\n\n\n\n\n\n\n\n\nPilot 3: (working title)\n\n\nIn preparation.\n\n\n\n\n\n\n13 de out. de 2026\n\n\n\n\n\n\n\n\n\n\n\nPilot 1: (working title)\n\n\nIn preparation.\n\n\n\n\n\n\n13 de out. de 2026\n\n\n\n\n\n\nNenhum item correspondente"
+  },
+  {
+    "objectID": "projects/pilots/pilot-3.html#the-data",
+    "href": "projects/pilots/pilot-3.html#the-data",
+    "title": "Pilot 3: (working title)",
+    "section": "The data",
+    "text": "The data"
+  },
+  {
+    "objectID": "projects/pilots/pilot-3.html#the-method",
+    "href": "projects/pilots/pilot-3.html#the-method",
+    "title": "Pilot 3: (working title)",
+    "section": "The method",
+    "text": "The method"
+  },
+  {
+    "objectID": "projects/pilots/pilot-3.html#the-result",
+    "href": "projects/pilots/pilot-3.html#the-result",
+    "title": "Pilot 3: (working title)",
+    "section": "The result",
+    "text": "The result"
+  },
+  {
+    "objectID": "projects/pilots/pilot-3.html#limits",
+    "href": "projects/pilots/pilot-3.html#limits",
+    "title": "Pilot 3: (working title)",
+    "section": "Limits",
+    "text": "Limits"
+  },
+  {
+    "objectID": "projects/pilots/pilot-3.html#code-and-data",
+    "href": "projects/pilots/pilot-3.html#code-and-data",
+    "title": "Pilot 3: (working title)",
+    "section": "Code and data",
+    "text": "Code and data"
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "Open datasets of interest to Portuguese civil society. Last reviewed: October 2026.\n\n\n\n\n\n\n\n\n\n\n    \n        \n        \n        \n        \n        \n        \n        \n        \n    \n    \n   \n    \n      \n  \n        \n    \n    \n  \n        \n    \n    \n  \n        \n    \n      \n  \n        \n            \n                \n                \n            \n\n            \n                \n                \n            \n\n            \n                \n                \n            \n\n            \n                \n                \n            \n\n            \n                \n                \n            \n        \n    \n\n\nThis is the init_notebook_mode cell from ITables v2.9.1\n(you should not see this message - is your notebook trusted?)\n\n\n\n\n\n\n  \n    \n      \n    \n        \n        \n        \n        \n        \n        \n        \n        \n    \n    \n   \n    \n      \n  \n        \n    \n    \n  \n        \n    \n    \n  \n        \n    \n      \n  \n        \n            \n                \n                \n            \n\n            \n                \n                \n            \n\n            \n                \n                \n            \n\n            \n                \n                \n            \n\n            \n                \n                \n            \n        \n    \n\n\n        Loading ITables v2.9.1 from the init_notebook_mode cell...\n        (need help?)\n      \n    \n  \n\n    \n      🔒ⓘnome\n      entidade\n      tema\n      descricao\n      formato\n      licenca\n      link\n      ultima_verificacao\n    \nPortal de Dados Abertos (dados.gov.pt)AMAVáriosCatálogo central de dados abertos da Administração Pública, com conjuntos de dados de várias áreas e entidades.CSV, JSON, XML, APIVaria consoante o conjunto de dados&lt;a href=\"https://dados.gov.pt\"&gt;link&lt;/a&gt;2026-10-21\nPortal de Dados Abertos da UE (data.europa.eu)Comissão EuropeiaVáriosCatálogo europeu que agrega dados abertos de organismos públicos de toda a UE.CSV, JSON, APIVaria consoante o conjunto de dados&lt;a href=\"https://data.europa.eu\"&gt;link&lt;/a&gt;por verificar\nBase de dados e API do INEINEEstatísticas oficiaisIndicadores demográficos, económicos e sociais por território, com acesso por API.CSV, JSON, APIVerificar os termos de utilização do INE&lt;a href=\"https://www.ine.pt\"&gt;link&lt;/a&gt;por verificar\nCensos 2021INEDemografia e habitaçãoResultados do recenseamento da população e da habitação, incluindo dados por freguesia.CSV, APIVerificar os termos de utilização do INE&lt;a href=\"https://censos.ine.pt\"&gt;link&lt;/a&gt;por verificar\nBPstatBanco de PortugalFinanças e habitaçãoSéries estatísticas sobre crédito à habitação, taxas de juro e endividamento das famílias.CSV, APIVerificar os termos de utilização do Banco de Portugal&lt;a href=\"https://bpstat.bportugal.pt\"&gt;link&lt;/a&gt;por verificar\nPortal BASE – Contratos PúblicosIMPICContratação públicaContratos públicos por entidade adjudicante, adjudicatário, valor e procedimento.CSV, consulta onlineVerificar os termos de utilização do portal&lt;a href=\"https://www.base.gov.pt\"&gt;link&lt;/a&gt;por verificar\nPORDATAFundação Francisco Manuel dos SantosIndicadores sociaisEstatísticas sobre Portugal, municípios e Europa, com séries longas e comparações.CSV, ExcelVerificar os termos de utilização (citação da fonte)&lt;a href=\"https://www.pordata.pt\"&gt;link&lt;/a&gt;por verificar\nEurostat – Base de dadosEurostatComparações europeiasIndicadores comparáveis entre países da UE, como preços da habitação, rendimentos e condições de vida.CSV, TSV, APICC BY 4.0, ver política de reutilização do Eurostat&lt;a href=\"https://ec.europa.eu/eurostat/data/database\"&gt;link&lt;/a&gt;por verificar\nRegisto Nacional de Alojamento LocalTurismo de PortugalTurismo e habitaçãoRegisto dos estabelecimentos de alojamento local, útil para análises territoriais.CSV, consulta onlineVerificar os termos de utilização&lt;a href=\"https://rnt.turismodeportugal.pt\"&gt;link&lt;/a&gt;por verificar\nPortal da HabitaçãoGoverno de PortugalHabitaçãoInformação e dados sobre políticas e apoios à habitação.Consulta onlineVerificar os termos de utilização&lt;a href=\"https://www.portaldahabitacao.pt\"&gt;link&lt;/a&gt;por verificar\n(12 more rows not shown)"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "data-limite",
@@ -7,11 +56,11 @@
     "text": "O Data Limite é um laboratório de projetos baseados em dados abertos (open data) de interesse para a sociedade. Os nossos projectos apoiam comunidades e organizações a descobrir, compreender e a utilizar dados para gerar mudanças positivas.\nAnálises de dados, aconselhamento técnico, workshops e formação, eventos de networking, investigação, são exemplos do que podemos fazer. Disponibilizamos também um catálogo de dados e curadoria de uma lista de projectos com dados abertos em ligações.\nComo podemos ajudar?"
   },
   {
-    "objectID": "resources.html",
-    "href": "resources.html",
-    "title": "Resources",
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Blog",
     "section": "",
-    "text": "Open datasets of interest to Portuguese civil society. Last reviewed: October 2026.\n\n\n\n\n\n\n\n\n\n\n    \n        \n        \n        \n        \n        \n        \n        \n        \n    \n    \n   \n    \n      \n  \n        \n    \n    \n  \n        \n    \n    \n  \n        \n    \n      \n  \n        \n            \n                \n                \n            \n\n            \n                \n                \n            \n\n            \n                \n                \n            \n\n            \n                \n                \n            \n\n            \n                \n                \n            \n        \n    \n\n\nThis is the init_notebook_mode cell from ITables v2.9.1\n(you should not see this message - is your notebook trusted?)\n\n\n\n\n\n\n  \n    \n      \n    \n        \n        \n        \n        \n        \n        \n        \n        \n    \n    \n   \n    \n      \n  \n        \n    \n    \n  \n        \n    \n    \n  \n        \n    \n      \n  \n        \n            \n                \n                \n            \n\n            \n                \n                \n            \n\n            \n                \n                \n            \n\n            \n                \n                \n            \n\n            \n                \n                \n            \n        \n    \n\n\n        Loading ITables v2.9.1 from the init_notebook_mode cell...\n        (need help?)\n      \n    \n  \n\n    \n      🔒ⓘnome\n      entidade\n      tema\n      formato\n      licenca\n      link\n      ultima_verificacao\n    \n(dataset name)INEHousing(verify)(verify)&lt;a href=\"https://www.ine.pt\"&gt;link&lt;/a&gt;2026-10-13\n(dataset name)Banco de PortugalFinance(verify)(verify)&lt;a href=\"https://www.bportugal.pt\"&gt;link&lt;/a&gt;2026-10-13\n(dataset name)dados.gov.ptMultiple(verify)(verify)&lt;a href=\"https://dados.gov.pt\"&gt;link&lt;/a&gt;2026-10-13"
+    "text": "Why Data Limite exists\n\n\n\n\n\n\n\n\n13 de out. de 2026\n\n\n\n\n\nNenhum item correspondente"
   },
   {
     "objectID": "blog/posts/first-post/index.html",
@@ -19,6 +68,27 @@
     "title": "Why Data Limite exists",
     "section": "",
     "text": "A short introduction to the project."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Who we are, what we do, and how to get in touch."
+  },
+  {
+    "objectID": "about.html#independence",
+    "href": "about.html#independence",
+    "title": "About",
+    "section": "Independence",
+    "text": "Independence\n(Placeholder: your independence policy.)"
+  },
+  {
+    "objectID": "about.html#licences",
+    "href": "about.html#licences",
+    "title": "About",
+    "section": "Licences",
+    "text": "Licences\nContent and data: CC BY 4.0. Code: MIT. Third-party data keeps its original licence."
   },
   {
     "objectID": "projects/pilots/pilot-2.html#the-data",
@@ -89,75 +159,5 @@
     "title": "Pilot 1: (working title)",
     "section": "Code and data",
     "text": "Code and data"
-  },
-  {
-    "objectID": "projects/pilots/pilot-3.html#the-data",
-    "href": "projects/pilots/pilot-3.html#the-data",
-    "title": "Pilot 3: (working title)",
-    "section": "The data",
-    "text": "The data"
-  },
-  {
-    "objectID": "projects/pilots/pilot-3.html#the-method",
-    "href": "projects/pilots/pilot-3.html#the-method",
-    "title": "Pilot 3: (working title)",
-    "section": "The method",
-    "text": "The method"
-  },
-  {
-    "objectID": "projects/pilots/pilot-3.html#the-result",
-    "href": "projects/pilots/pilot-3.html#the-result",
-    "title": "Pilot 3: (working title)",
-    "section": "The result",
-    "text": "The result"
-  },
-  {
-    "objectID": "projects/pilots/pilot-3.html#limits",
-    "href": "projects/pilots/pilot-3.html#limits",
-    "title": "Pilot 3: (working title)",
-    "section": "Limits",
-    "text": "Limits"
-  },
-  {
-    "objectID": "projects/pilots/pilot-3.html#code-and-data",
-    "href": "projects/pilots/pilot-3.html#code-and-data",
-    "title": "Pilot 3: (working title)",
-    "section": "Code and data",
-    "text": "Code and data"
-  },
-  {
-    "objectID": "projects/index.html",
-    "href": "projects/index.html",
-    "title": "Projects",
-    "section": "",
-    "text": "Pilot 1: (working title)\n\n\nIn preparation.\n\n\n\n\n\n\n13 de out. de 2026\n\n\n\n\n\n\n\n\n\n\n\nPilot 3: (working title)\n\n\nIn preparation.\n\n\n\n\n\n\n13 de out. de 2026\n\n\n\n\n\n\n\n\n\n\n\nPilot 2: (working title)\n\n\nIn preparation.\n\n\n\n\n\n\n13 de out. de 2026\n\n\n\n\n\n\nNenhum item correspondente"
-  },
-  {
-    "objectID": "blog/index.html",
-    "href": "blog/index.html",
-    "title": "Blog",
-    "section": "",
-    "text": "Why Data Limite exists\n\n\n\n\n\n\n\n\n13 de out. de 2026\n\n\n\n\n\nNenhum item correspondente"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "Who we are, what we do, and how to get in touch."
-  },
-  {
-    "objectID": "about.html#independence",
-    "href": "about.html#independence",
-    "title": "About",
-    "section": "Independence",
-    "text": "Independence\n(Placeholder: your independence policy.)"
-  },
-  {
-    "objectID": "about.html#licences",
-    "href": "about.html#licences",
-    "title": "About",
-    "section": "Licences",
-    "text": "Licences\nContent and data: CC BY 4.0. Code: MIT. Third-party data keeps its original licence."
   }
 ]
