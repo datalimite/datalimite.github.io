@@ -1,22 +1,10 @@
 ---
 title: "Resources"
 jupyter: python3
+page-layout: full
 ---
 
 Catálogo de dados ou portais de dados abertos com interesse para a sociedade. Última atualização: 21 Outurbo 2026.
-
-#```{python}
-##| echo: false
-#import pandas as pd
-#from itables import init_notebook_mode, show
-#
-#init_notebook_mode(all_interactive=False)
-#
-#df = pd.read_csv("resources/datasets.csv")
-#df["link"] = df["link"].apply(lambda u: f'<a href="{u}">link</a>')
-#show(df, classes="display compact", columnDefs=[{"className": "dt-left", "targets": "_all"}])
-#
-#```
 
 ```{python}
 #| echo: false
@@ -26,7 +14,7 @@ import pandas as pd
 df = pd.read_csv("resources/datasets.csv")
 df["Nome"] = [f"[{n}]({u})" for n, u in zip(df["nome"], df["link"])]
 out = df[["Nome", "entidade", "tema", "descricao", "formato", "licenca", "ultima_verificacao"]]
-out.columns = ["Nome", "Entidade", "Tema", "Descrição", "Formato", "Licença", "Última verificação"]
+out.columns = ["Fonte de Dados", "Entidade", "Tema", "Descrição", "Formato", "Licença", "Última verificação"]
 print(out.to_markdown(index=False))
 ```
 
