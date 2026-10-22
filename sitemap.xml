@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://datalimite.github.io/projects/index.html</loc>
-    <lastmod>2026-10-21T11:25:31.081Z</lastmod>
-  </url>
-  <url>
-    <loc>https://datalimite.github.io/projects/pilots/pilot-3.html</loc>
-    <lastmod>2026-10-21T11:25:31.081Z</lastmod>
+    <loc>https://datalimite.github.io/index.html</loc>
+    <lastmod>2026-10-22T09:37:49.696Z</lastmod>
   </url>
   <url>
     <loc>https://datalimite.github.io/resources.html</loc>
-    <lastmod>2026-10-21T11:25:31.081Z</lastmod>
-  </url>
-  <url>
-    <loc>https://datalimite.github.io/index.html</loc>
-    <lastmod>2026-10-21T11:25:31.081Z</lastmod>
-  </url>
-  <url>
-    <loc>https://datalimite.github.io/blog/index.html</loc>
-    <lastmod>2026-10-21T11:25:31.080Z</lastmod>
+    <lastmod>2026-10-22T09:37:49.696Z</lastmod>
   </url>
   <url>
     <loc>https://datalimite.github.io/blog/posts/first-post/index.html</loc>
-    <lastmod>2026-10-21T11:25:31.081Z</lastmod>
-  </url>
-  <url>
-    <loc>https://datalimite.github.io/about.html</loc>
-    <lastmod>2026-10-21T11:25:31.080Z</lastmod>
+    <lastmod>2026-10-22T09:37:49.696Z</lastmod>
   </url>
   <url>
     <loc>https://datalimite.github.io/projects/pilots/pilot-2.html</loc>
-    <lastmod>2026-10-21T11:25:31.081Z</lastmod>
+    <lastmod>2026-10-22T09:37:49.696Z</lastmod>
   </url>
   <url>
     <loc>https://datalimite.github.io/projects/pilots/pilot-1.html</loc>
-    <lastmod>2026-10-21T11:25:31.081Z</lastmod>
+    <lastmod>2026-10-22T09:37:49.696Z</lastmod>
+  </url>
+  <url>
+    <loc>https://datalimite.github.io/projects/pilots/pilot-3.html</loc>
+    <lastmod>2026-10-22T09:37:49.696Z</lastmod>
+  </url>
+  <url>
+    <loc>https://datalimite.github.io/projects/index.html</loc>
+    <lastmod>2026-10-22T09:37:49.696Z</lastmod>
+  </url>
+  <url>
+    <loc>https://datalimite.github.io/blog/index.html</loc>
+    <lastmod>2026-10-22T09:37:49.695Z</lastmod>
+  </url>
+  <url>
+    <loc>https://datalimite.github.io/about.html</loc>
+    <lastmod>2026-10-22T09:37:49.695Z</lastmod>
   </url>
 </urlset>
