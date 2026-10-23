@@ -1,10 +1,45 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "data-limite",
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
     "section": "",
-    "text": "O Data Limite é um laboratório de projetos baseados em dados abertos (open data) de interesse para a sociedade. Os nossos projectos apoiam comunidades e organizações a descobrir, compreender e a utilizar dados para gerar mudanças positivas.\nAnálises de dados, aconselhamento técnico, workshops e formação, eventos de networking, investigação, são exemplos do que podemos fazer. Disponibilizamos também um catálogo de dados e curadoria de uma lista de projectos com dados abertos em ligações.\nComo podemos ajudar?"
+    "text": "Árvores de Lisboa\n\n\nMapa interativo do inventário de árvores em espaços públicos de Lisboa.\n\n\n\n\n\n\n23 de out. de 2026\n\n\n\n\n\n\n\n\n\n\n\nPilot 2: (working title)\n\n\nIn preparation.\n\n\n\n\n\n\n13 de out. de 2026\n\n\n\n\n\n\n\n\n\n\n\nPilot 3: (working title)\n\n\nIn preparation.\n\n\n\n\n\n\n13 de out. de 2026\n\n\n\n\n\n\nNenhum item correspondente"
+  },
+  {
+    "objectID": "projects/pilots/pilot-3.html#the-data",
+    "href": "projects/pilots/pilot-3.html#the-data",
+    "title": "Pilot 3: (working title)",
+    "section": "The data",
+    "text": "The data"
+  },
+  {
+    "objectID": "projects/pilots/pilot-3.html#the-method",
+    "href": "projects/pilots/pilot-3.html#the-method",
+    "title": "Pilot 3: (working title)",
+    "section": "The method",
+    "text": "The method"
+  },
+  {
+    "objectID": "projects/pilots/pilot-3.html#the-result",
+    "href": "projects/pilots/pilot-3.html#the-result",
+    "title": "Pilot 3: (working title)",
+    "section": "The result",
+    "text": "The result"
+  },
+  {
+    "objectID": "projects/pilots/pilot-3.html#limits",
+    "href": "projects/pilots/pilot-3.html#limits",
+    "title": "Pilot 3: (working title)",
+    "section": "Limits",
+    "text": "Limits"
+  },
+  {
+    "objectID": "projects/pilots/pilot-3.html#code-and-data",
+    "href": "projects/pilots/pilot-3.html#code-and-data",
+    "title": "Pilot 3: (working title)",
+    "section": "Code and data",
+    "text": "Code and data"
   },
   {
     "objectID": "resources.html",
@@ -14,11 +49,46 @@
     "text": "Catálogo de dados ou portais de dados abertos com interesse para a sociedade. Última atualização: 21 Outurbo 2026.\n\n\n\nFonte de Dados\nEntidade\nTema\nDescrição\nFormato\nLicença\nÚltima verificação\n\n\n\n\nPortal de Dados Abertos (dados.gov.pt)\nAMA\nVários\nCatálogo central de dados abertos da Administração Pública, com conjuntos de dados de várias áreas e entidades.\nCSV, JSON, XML, API\nVaria consoante o conjunto de dados\n2026-10-21\n\n\nPortal de Dados Abertos da UE (data.europa.eu)\nComissão Europeia\nVários\nCatálogo europeu que agrega dados abertos de organismos públicos de toda a UE.\nCSV, JSON, API\nVaria consoante o conjunto de dados\npor verificar\n\n\nBase de dados e API do INE\nINE\nEstatísticas oficiais\nIndicadores demográficos, económicos e sociais por território, com acesso por API.\nCSV, JSON, API\nVerificar os termos de utilização do INE\npor verificar\n\n\nCensos 2021\nINE\nDemografia e habitação\nResultados do recenseamento da população e da habitação, incluindo dados por freguesia.\nCSV, API\nVerificar os termos de utilização do INE\npor verificar\n\n\nBPstat\nBanco de Portugal\nFinanças e habitação\nSéries estatísticas sobre crédito à habitação, taxas de juro e endividamento das famílias.\nCSV, API\nVerificar os termos de utilização do Banco de Portugal\npor verificar\n\n\nPortal BASE – Contratos Públicos\nIMPIC\nContratação pública\nContratos públicos por entidade adjudicante, adjudicatário, valor e procedimento.\nCSV, consulta online\nVerificar os termos de utilização do portal\npor verificar\n\n\nPORDATA\nFundação Francisco Manuel dos Santos\nIndicadores sociais\nEstatísticas sobre Portugal, municípios e Europa, com séries longas e comparações.\nCSV, Excel\nVerificar os termos de utilização (citação da fonte)\npor verificar\n\n\nEurostat – Base de dados\nEurostat\nComparações europeias\nIndicadores comparáveis entre países da UE, como preços da habitação, rendimentos e condições de vida.\nCSV, TSV, API\nCC BY 4.0, ver política de reutilização do Eurostat\npor verificar\n\n\nRegisto Nacional de Alojamento Local\nTurismo de Portugal\nTurismo e habitação\nRegisto dos estabelecimentos de alojamento local, útil para análises territoriais.\nCSV, consulta online\nVerificar os termos de utilização\npor verificar\n\n\nPortal da Habitação\nGoverno de Portugal\nHabitação\nInformação e dados sobre políticas e apoios à habitação.\nConsulta online\nVerificar os termos de utilização\npor verificar\n\n\nPortal da Transparência do SNS\nServiço Nacional de Saúde\nSaúde\nIndicadores de acesso, atividade e desempenho do Serviço Nacional de Saúde.\nCSV, consulta online\nVerificar os termos de utilização\npor verificar\n\n\nResultados eleitorais\nMinistério da Administração Interna\nEleições\nResultados de eleições legislativas, autárquicas, europeias e presidenciais.\nConsulta online\nVerificar os termos de utilização\npor verificar\n\n\nDados abertos da Assembleia da República\nAssembleia da República\nPolítica\nDados sobre iniciativas legislativas, deputados e votações.\nXML, JSON\nVerificar os termos de utilização\npor verificar\n\n\nCarta Administrativa Oficial de Portugal (CAOP)\nDireção-Geral do Território\nTerritório\nLimites administrativos de distritos, concelhos e freguesias, para mapas e análises espaciais.\nShapefile, GeoPackage\nVerificar os termos de utilização\npor verificar\n\n\nSistema Nacional de Informação Geográfica (SNIG)\nDireção-Geral do Território\nInformação geográfica\nCatálogo de dados e serviços geográficos produzidos por entidades públicas.\nVários, serviços geográficos\nVaria consoante o conjunto de dados\npor verificar\n\n\nEstatísticas da Justiça\nDireção-Geral da Política de Justiça\nJustiça\nEstatísticas sobre tribunais, processos, criminalidade e sistema prisional.\nExcel, consulta online\nVerificar os termos de utilização\npor verificar\n\n\nEstatísticas da Educação\nDireção-Geral de Estatísticas da Educação e Ciência\nEducação\nDados sobre alunos, escolas, professores e resultados escolares.\nExcel, consulta online\nVerificar os termos de utilização\npor verificar\n\n\nDados abertos do IPMA\nInstituto Português do Mar e da Atmosfera\nClima e ambiente\nObservações meteorológicas, previsões e avisos, com acesso por API.\nJSON, API\nVerificar os termos de utilização\npor verificar\n\n\nSistema Nacional de Informação de Ambiente (SNIAmb)\nAgência Portuguesa do Ambiente\nAmbiente\nDados sobre água, ar, resíduos, clima e outros temas ambientais.\nConsulta online, serviços geográficos\nVerificar os termos de utilização\npor verificar\n\n\nDataHub REN\nREN\nEnergia\nDados sobre produção, consumo e rede elétrica e de gás em Portugal.\nCSV, API\nVerificar os termos de utilização\npor verificar\n\n\nLisboa Aberta\nCâmara Municipal de Lisboa\nDados municipais\nDados abertos do município de Lisboa, como mobilidade, urbanismo e orçamento.\nCSV, JSON, API\nVaria consoante o conjunto de dados\npor verificar\n\n\nPorto Digital – Dados Abertos\nCâmara Municipal do Porto\nDados municipais\nDados abertos do município do Porto, como mobilidade, espaço público e serviços.\nCSV, JSON, API\nVaria consoante o conjunto de dados\npor verificar"
   },
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "data-limite",
+    "section": "",
+    "text": "O Data Limite é um laboratório de projetos baseados em dados abertos (open data) de interesse para a sociedade. Os nossos projectos apoiam comunidades e organizações a descobrir, compreender e a utilizar dados para gerar mudanças positivas.\nAnálises de dados, aconselhamento técnico, workshops e formação, networking, investigação, são exemplos do que podemos fazer. Consulte o catálogo de dados e os nossos projectos para inspiração.\nComo podemos ajudar?"
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Why Data Limite exists\n\n\n\n\n\n\n\n\n13 de out. de 2026\n\n\n\n\n\nNenhum item correspondente"
+  },
+  {
     "objectID": "blog/posts/first-post/index.html",
     "href": "blog/posts/first-post/index.html",
     "title": "Why Data Limite exists",
     "section": "",
     "text": "A short introduction to the project."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Who we are, what we do, and how to get in touch."
+  },
+  {
+    "objectID": "about.html#independence",
+    "href": "about.html#independence",
+    "title": "About",
+    "section": "Independence",
+    "text": "Independence\n(Placeholder: your independence policy.)"
+  },
+  {
+    "objectID": "about.html#licences",
+    "href": "about.html#licences",
+    "title": "About",
+    "section": "Licences",
+    "text": "Licences\nContent and data: CC BY 4.0. Code: MIT. Third-party data keeps its original licence."
   },
   {
     "objectID": "projects/pilots/pilot-2.html#the-data",
@@ -58,106 +128,36 @@
   {
     "objectID": "projects/pilots/pilot-1.html#the-data",
     "href": "projects/pilots/pilot-1.html#the-data",
-    "title": "Mapa do Arvoredo (Lisboa)",
+    "title": "Árvores de Lisboa",
     "section": "The data",
     "text": "The data"
   },
   {
     "objectID": "projects/pilots/pilot-1.html#the-method",
     "href": "projects/pilots/pilot-1.html#the-method",
-    "title": "Mapa do Arvoredo (Lisboa)",
+    "title": "Árvores de Lisboa",
     "section": "The method",
     "text": "The method"
   },
   {
     "objectID": "projects/pilots/pilot-1.html#the-result",
     "href": "projects/pilots/pilot-1.html#the-result",
-    "title": "Mapa do Arvoredo (Lisboa)",
+    "title": "Árvores de Lisboa",
     "section": "The result",
     "text": "The result"
   },
   {
     "objectID": "projects/pilots/pilot-1.html#limits",
     "href": "projects/pilots/pilot-1.html#limits",
-    "title": "Mapa do Arvoredo (Lisboa)",
+    "title": "Árvores de Lisboa",
     "section": "Limits",
     "text": "Limits"
   },
   {
     "objectID": "projects/pilots/pilot-1.html#code-and-data",
     "href": "projects/pilots/pilot-1.html#code-and-data",
-    "title": "Mapa do Arvoredo (Lisboa)",
+    "title": "Árvores de Lisboa",
     "section": "Code and data",
     "text": "Code and data"
-  },
-  {
-    "objectID": "projects/pilots/pilot-3.html#the-data",
-    "href": "projects/pilots/pilot-3.html#the-data",
-    "title": "Pilot 3: (working title)",
-    "section": "The data",
-    "text": "The data"
-  },
-  {
-    "objectID": "projects/pilots/pilot-3.html#the-method",
-    "href": "projects/pilots/pilot-3.html#the-method",
-    "title": "Pilot 3: (working title)",
-    "section": "The method",
-    "text": "The method"
-  },
-  {
-    "objectID": "projects/pilots/pilot-3.html#the-result",
-    "href": "projects/pilots/pilot-3.html#the-result",
-    "title": "Pilot 3: (working title)",
-    "section": "The result",
-    "text": "The result"
-  },
-  {
-    "objectID": "projects/pilots/pilot-3.html#limits",
-    "href": "projects/pilots/pilot-3.html#limits",
-    "title": "Pilot 3: (working title)",
-    "section": "Limits",
-    "text": "Limits"
-  },
-  {
-    "objectID": "projects/pilots/pilot-3.html#code-and-data",
-    "href": "projects/pilots/pilot-3.html#code-and-data",
-    "title": "Pilot 3: (working title)",
-    "section": "Code and data",
-    "text": "Code and data"
-  },
-  {
-    "objectID": "projects/index.html",
-    "href": "projects/index.html",
-    "title": "Projects",
-    "section": "",
-    "text": "Mapa do Arvoredo (Lisboa)\n\n\nIn preparation.\n\n\n\n\n\n\n13 de out. de 2026\n\n\n\n\n\n\n\n\n\n\n\nPilot 3: (working title)\n\n\nIn preparation.\n\n\n\n\n\n\n13 de out. de 2026\n\n\n\n\n\n\n\n\n\n\n\nPilot 2: (working title)\n\n\nIn preparation.\n\n\n\n\n\n\n13 de out. de 2026\n\n\n\n\n\n\nNenhum item correspondente"
-  },
-  {
-    "objectID": "blog/index.html",
-    "href": "blog/index.html",
-    "title": "Blog",
-    "section": "",
-    "text": "Why Data Limite exists\n\n\n\n\n\n\n\n\n13 de out. de 2026\n\n\n\n\n\nNenhum item correspondente"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "Who we are, what we do, and how to get in touch."
-  },
-  {
-    "objectID": "about.html#independence",
-    "href": "about.html#independence",
-    "title": "About",
-    "section": "Independence",
-    "text": "Independence\n(Placeholder: your independence policy.)"
-  },
-  {
-    "objectID": "about.html#licences",
-    "href": "about.html#licences",
-    "title": "About",
-    "section": "Licences",
-    "text": "Licences\nContent and data: CC BY 4.0. Code: MIT. Third-party data keeps its original licence."
   }
 ]
