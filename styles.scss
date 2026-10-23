@@ -12,8 +12,8 @@ $navbar-fg: #444;
 $navbar-hover-color: #17151a;
 
 // pastel pairs: (background text-colour)
-$pastels: (#f3d8e8 #74294f), (#ccebea #245d61), (#f7dfb5 #704817),
-          (#ddd2f2 #4d3b78), (#d9edc9 #35552a), (#edcedd #71324c);
+$pastels: (#ccebea #245d61), (#f3d8e8 #74294f), (#f7dfb5 #704817),
+          (#d9edc9 #35552a), (#ddd2f2 #4d3b78), (#edcedd #71324c);
 
 /*-- scss:rules --*/
 $shadow: 0 0.12em 0.28em rgb(75 52 92 / 14%);
@@ -84,10 +84,10 @@ main ul { list-style-type: "-  "; }
 .quarto-grid-item.card {
   border: 0; border-radius: 0; box-shadow: $shadow; background: #fff;
 }
+
 @for $i from 1 through 6 {
   .quarto-listing .g-col-1:nth-child(6n + #{$i}) .quarto-grid-item.card {
-    background: nth(nth($pastels, $i), 1);
-  }
+    background: #d9edc9, 1; }
 }
 .quarto-grid-item .listing-title { color: #444; }
 

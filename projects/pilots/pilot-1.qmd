@@ -1,7 +1,9 @@
 ---
-title: "Mapa do Arvoredo (Lisboa)"
-description: "In preparation."
-date: 2026-10-13
+title: "Árvores de Lisboa"
+description: "Mapa interativo do inventário de árvores em espaços públicos de Lisboa."
+date: 2026-10-23
+image: ../../images/map_arvores_app.png
+image-alt: "Mapa de Lisboa com marcadores verdes a indicar a localização das árvores."
 ---
 
 ## The question
