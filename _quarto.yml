@@ -11,7 +11,7 @@ website:
         text: Início
       - href: projects/index.qmd
         text: Projectos
-      - href: blog/index.qmd
+      - href: https://data-feminism.mitpress.mit.edu/
         text: Blog
       - href: resources.qmd
         text: Catálogo de Dados

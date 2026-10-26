@@ -1,7 +1,0 @@
----
-title: "Why Data Limite exists"
-date: 2026-10-13
----
-
-A short introduction to the project.
-
